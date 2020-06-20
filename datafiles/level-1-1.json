@@ -1,0 +1,19 @@
+{
+	"map": {
+		"wide": 4,
+		"high": 4,
+		"exit": [3,2],
+		"start": [1,0],
+		"stuff": 
+		[
+			"green","white", "blue", "red",
+			"blue", "green", "green", "violet",
+			"red", "blue", "blue", "green",
+			"green", "green", "orange", "red"
+		]
+	},
+	"message" : {
+		"start" : "Sara will make the turn at every building of the indicated colour. Try telling her to turn left at red buildings.",
+		"end": "Well done!"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"map": {
+		"wide": 2,
+		"high": 2,
+		"exit": [2,1],
+		"start": [1,0],
+		"stuff": 
+		[
+			"green","white", 
+			"blue", "green"
+		]
+	},
+	"message" : {
+		"start" : "Welcome, help the character get to the destination by instructing it to turn when it approaches buildings of different colours.",
+		"end": "Well done!"
+	}
+}
